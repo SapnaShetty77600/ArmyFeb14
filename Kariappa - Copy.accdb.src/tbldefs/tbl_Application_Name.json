@@ -1,0 +1,13 @@
+﻿{
+  "Info": {
+    "Class": "clsDbTableDef",
+    "Description": "Linked Table"
+  },
+  "Items": {
+    "Name": "tbl_Application_Name",
+    "Connect": ";DATABASE=rel:Kariappa - Copy_be.accdb",
+    "SourceTableName": "tbl_Application_Name",
+    "Attributes": 1073741824,
+    "PrimaryKey": "[Application_Id]"
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Info": {
+    "Class": "clsDbTableDef",
+    "Description": "Linked Table"
+  },
+  "Items": {
+    "Name": "tbl_Combatant",
+    "Connect": ";DATABASE=rel:Kariappa - Copy_be.accdb",
+    "SourceTableName": "tbl_Combatant",
+    "Attributes": 1073741824,
+    "PrimaryKey": "[Combatant_Id]"
+  }
+}

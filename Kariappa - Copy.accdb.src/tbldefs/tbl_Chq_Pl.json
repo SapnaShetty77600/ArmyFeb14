@@ -1,0 +1,13 @@
+﻿{
+  "Info": {
+    "Class": "clsDbTableDef",
+    "Description": "Linked Table"
+  },
+  "Items": {
+    "Name": "tbl_Chq_Pl",
+    "Connect": ";DATABASE=rel:Kariappa - Copy_be.accdb",
+    "SourceTableName": "tbl_Chq_Pl",
+    "Attributes": 1073741824,
+    "PrimaryKey": "[CHQ_Pl_Id]"
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Info": {
+    "Class": "clsDbTableDef",
+    "Description": "Linked Table"
+  },
+  "Items": {
+    "Name": "tbl_Rank",
+    "Connect": ";DATABASE=rel:Kariappa - Copy_be.accdb",
+    "SourceTableName": "tbl_Rank",
+    "Attributes": 1073741824,
+    "PrimaryKey": "[Rank_Id]"
+  }
+}

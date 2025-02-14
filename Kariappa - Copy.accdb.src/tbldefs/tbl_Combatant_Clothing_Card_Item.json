@@ -1,0 +1,13 @@
+﻿{
+  "Info": {
+    "Class": "clsDbTableDef",
+    "Description": "Linked Table"
+  },
+  "Items": {
+    "Name": "tbl_Combatant_Clothing_Card_Item",
+    "Connect": ";DATABASE=rel:Kariappa - Copy_be.accdb",
+    "SourceTableName": "tbl_Combatant_Clothing_Card_Item",
+    "Attributes": 1073741824,
+    "PrimaryKey": "[Clothing_Card_Item_Id]"
+  }
+}

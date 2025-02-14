@@ -1,0 +1,13 @@
+﻿{
+  "Info": {
+    "Class": "clsDbTableDef",
+    "Description": "Linked Table"
+  },
+  "Items": {
+    "Name": "USysApplicationLog",
+    "Connect": ";DATABASE=rel:Kariappa - Copy_be.accdb",
+    "SourceTableName": "USysApplicationLog",
+    "Attributes": 1073741824,
+    "PrimaryKey": "[ID]"
+  }
+}
